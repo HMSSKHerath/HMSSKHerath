@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software development, open-source projects, and learning new technologies.
 - 🌱 I’m currently learning Java and expanding my programming skills.
 - 💞️ I’m looking to collaborate on open-source contributions, and any interesting software development projects.
-- 📫 How to reach me: You can contact me via Email - (hmsskherath20020903@gmail.com) or connect with me on LinkedIn - ().
+- 📫 How to reach me: You can contact me via Email - (hmsskherath20020903@gmail.com) or connect with me on LinkedIn - (www.linkedin.com/in/sasidu-samith-524678315).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Watching Movies and enjoy playing Games in my free time!
 
