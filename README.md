@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hi there, I'm Sasidu Samith 👋</h1>
 
-<p align="center">
+<p>
   🌱 I'm a passionate <b>Computer Science student</b> and <b>aspiring Software Engineer</b><br>
   💻 I enjoy developing <b>web applications</b>, exploring <b>open-source projects</b>, and learning <b>new technologies</b><br>
   🎯 My goal is to become a full-stack developer and contribute to impactful projects.
