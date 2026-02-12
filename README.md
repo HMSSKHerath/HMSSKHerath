@@ -3,7 +3,7 @@ HMSSKHerath/HMSSKHerath is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi there, I'm Sasidu Samith 👋</h1>
+<h1>Hi there, I'm Sasidu Samith 👋</h1>
 
 <p>
   🌱 I'm a passionate <b>Computer Science student</b> and <b>aspiring Software Engineer</b><br>
@@ -49,10 +49,14 @@ You can click the Preview link to take a look at your changes.
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HMSSKHerath&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HMSSKHerath&theme=tokyonight" alt="GitHub Streak" height="180"/>
-</p>
+<br>![](https://nirzak-streak-stats.vercel.app/?user=HMSSKHerath&theme=neon&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HMSSKHerath&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
+
+---
+
+### 🔝 Top Contributed Repo
+
+<br>![](https://github-contributor-stats.vercel.app/api?username=HMSSKHerath&limit=5&theme=neon&combine_all_yearly_contributions=true)<br>
 
 ---
 
@@ -64,11 +68,12 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<p align="center">
-  💬 “Code. Learn. Build. Repeat.”  
-</p>
+<h1 align="center">
+  🌱 “Learn. Experiment. Improve. Ship.”
+</h1><br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HMSSKHerath&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views"/>
 </p>
 
+---
