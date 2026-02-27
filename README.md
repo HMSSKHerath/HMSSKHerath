@@ -7,12 +7,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=250&section=header&text=Sasidu%20Samith&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Programmer%20|%20Web%20Developer|%20Aspiring%20Software%20Engineer&descAlignY=62&descSize=25&width=1000" width="100%" />
 </p>
 
-<p>
-  🌱 I'm a passionate <b>Computer Science student</b> and <b>aspiring Software Engineer</b><br>
-  💻 I enjoy developing <b>web applications</b>, exploring <b>open-source projects</b>, and learning <b>new technologies</b><br>
-  🎯 My goal is to become a full-stack developer and contribute to impactful projects.
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
