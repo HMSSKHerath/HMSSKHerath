@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 <div>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <img align="right" src="https://komarev.com/ghpvc/?username=HMSSKHerath&label=Profile%20Views&color=39d353&style=flat" alt="profile views" width="200"/>
+  <img align="right" src="https://komarev.com/ghpvc/?username=HMSSKHerath&label=Profile%20Views&color=39d353&style=flat" alt="profile views" width="150"/>
 </div>
 
 
