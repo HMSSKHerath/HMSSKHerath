@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### 📊 GitHub Stats
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> GitHub Stats
 
 <br>![](https://nirzak-streak-stats.vercel.app/?user=HMSSKHerath&theme=neon&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HMSSKHerath&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
