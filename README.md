@@ -18,12 +18,19 @@ You can click the Preview link to take a look at your changes.
 <!-- Aabout Me Section -->
 ### 🧑‍💻 About Me
 
-* 🎓 I’m currently pursuing a **BSc in Computer Science**
-* 🚀 Currently learning **Java EE, Spring Boot, React, and Node.js**
-* 💬 Ask me about **Java, Web Development, or Git**
-* 🤝 I’m open to collaborating on **open-source and innovative projects**
-* 📫 Reach me at **[hmsskherath20020903@gmail.com](mailto:hmsskherath20020903@gmail.com)**
-* 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/sasidu-samith-524678315)
+- 🌱 I'm a passionate **Computer Science student** and an aspiring **Software Engineer**.
+- 💻 I love building **Web Applications** using the **MERN Stack**, contributing to **Open-Source**, and exploring **New Technologies**.
+- 🎯 My goal is to become a **Full-Stack Developer** and work on impactful projects that solve real-world problems.
+<br><br>
+
+#### 🚀 Currently Learning & Exploring:
+- 🛠️ **MERN Stack** (MongoDB, Express.js, React, Node.js)
+- 🌐 **Web Development** best practices & modern frameworks
+<br><br>
+
+#### 🤝 Let's Connect :
+- 📫 **Email:** [hmsskherath20020903@gmail.com](mailto:hmsskherath20020903@gmail.com)
+- 🔗 **LinkedIn:** [Sasidu Samith](https://www.linkedin.com/in/sasidu-samith-524678315)
 
 ---
 
