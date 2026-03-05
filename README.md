@@ -46,6 +46,12 @@ You can click the Preview link to take a look at your changes.
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql\&logoColor=white)
 
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,express,java,,&perline=14" />
+  </a>
+</p>
+
 #### ⚙️ Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05033?logo=git\&logoColor=white)
