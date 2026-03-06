@@ -46,12 +46,11 @@ You can click the Preview link to take a look at your changes.
 
 #### ⚙️ Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05033?logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellij-idea\&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman\&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,githubactions,postman&perline=10" />
+  </a>
+</p>
 
 ---
 
