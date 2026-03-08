@@ -31,13 +31,13 @@ You can click the Preview link to take a look at your changes.
 ### 🤝 Let's Connect :
 <p align="left">
   <a href="https://github.com/HMSSKHerath" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/sasidu-samith">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:hmsskherath20020903@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
   <a href="https://discord.com/users/1392566627085713490">
     <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" />
@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,express,java,,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,express,java" />
   </a>
 </p>
 
@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,githubactions,postman&perline=10" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,githubactions,postman" />
   </a>
 </p>
 
