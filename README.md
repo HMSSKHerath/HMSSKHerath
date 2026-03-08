@@ -23,14 +23,26 @@ You can click the Preview link to take a look at your changes.
 - 🎯 My goal is to become a **Full-Stack Developer** and work on impactful projects that solve real-world problems.
 <br><br>
 
-#### 🚀 Currently Learning & Exploring:
+### 🚀 Currently Learning & Exploring:
 - 🛠️ **MERN Stack** (MongoDB, Express.js, React, Node.js)
 - 🌐 **Web Development** best practices & modern frameworks
 <br><br>
 
-#### 🤝 Let's Connect :
-- 📫 **Email:** [hmsskherath20020903@gmail.com](mailto:hmsskherath20020903@gmail.com)
-- 🔗 **LinkedIn:** [Sasidu Samith](https://www.linkedin.com/in/sasidu-samith-524678315)
+### 🤝 Let's Connect :
+<p align="left">
+  <a href="https://github.com/HMSSKHerath" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/sasidu-samith">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hmsskherath20020903@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
+  </a>
+  <a href="https://discord.com/users/1392566627085713490">
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" />
+  </a>
+</p>
 
 ---
 
