@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 🤝 Let's Connect :
 <p align="left">
-  <a href="https://github.com/HMSSKHerath" style="text-decoration: none;">
+  <a href="https://github.com/HMSSKHerath">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/sasidu-samith">
