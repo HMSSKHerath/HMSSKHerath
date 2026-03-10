@@ -6,11 +6,11 @@ You can click the Preview link to take a look at your changes.
 <!-- Top Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=250&section=header&text=Sasidu%20Samith&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Programmer%20|%20Web%20Developer|%20Aspiring%20Software%20Engineer&descAlignY=62&descSize=25&width=1000" width="100%" />
-</p>
+</p><br>
 
-<div>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</div>
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=39D353&center=false&vCenter=true&width=600&lines=Hi+there,+I'm+Sasidu+Samith+;" alt="Typing SVG" />
+</div> <br><br>
 
 <!-- Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
