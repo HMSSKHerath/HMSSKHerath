@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 </div> <br><br>
 
 <!-- Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <!-- Aabout Me Section -->
 ### 🧑‍💻 About Me
@@ -68,14 +68,13 @@ You can click the Preview link to take a look at your changes.
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> GitHub Stats
 
-<br>![](https://nirzak-streak-stats.vercel.app/?user=HMSSKHerath&theme=neon&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HMSSKHerath&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
+
+
 
 ---
 
 ### 🔝 Top Contributed Repo
 
-<br>![](https://github-contributor-stats.vercel.app/api?username=HMSSKHerath&limit=5&theme=neon&combine_all_yearly_contributions=true)<br>
 
 ---
 
