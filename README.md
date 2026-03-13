@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 </p><br>
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=39D353&center=false&vCenter=true&width=600&lines=Hi+there,+I'm+Sasidu+Samith;Computer+Science+Student;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=39D353&center=false&vCenter=true&width=600&lines=Hi+there,+I'm+Sasidu+Samith;Computer+Science+Student;Programmer;" alt="Typing SVG" />
 </div> <br><br>
 
 <!-- Line -->
