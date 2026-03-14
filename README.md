@@ -48,21 +48,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 🛠️ Tech Stack
 
-#### 💻 Languages & Frameworks
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,express,java" />
-  </a>
-</p>
-
-#### ⚙️ Tools & Platforms
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,githubactions,postman" />
-  </a>
-</p>
 
 ---
 
