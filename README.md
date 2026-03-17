@@ -69,6 +69,13 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
+#### 🧰 Tools & Software
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,sublime,postman&perline=10" />
+  </a>
+</p>
+
 ---
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> GitHub Stats
