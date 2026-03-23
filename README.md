@@ -80,6 +80,9 @@ You can click the Preview link to take a look at your changes.
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> GitHub Stats
 
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HMSSKHerath&theme=neon" alt="GitHub Streak" />
+</p>
 
 
 
