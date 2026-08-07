@@ -54,6 +54,14 @@
 ---
 
 <!-- ============================================== -->
+<!-- PROFILES VIEWS SECTION -->
+<!-- ============================================== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HMSSKHerath&label=Profile%20Views&color=39d353&style=flat" alt="profile views" width="180"/>
+</p>
+
+
+<!-- ============================================== -->
 <!-- FOOTER BANNER SECTION (Waving Footer) -->
 <!-- ============================================== -->
 <!-- Bottom Banner -->
