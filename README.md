@@ -28,24 +28,28 @@
 
 ---
 
+<!-- ============================================== -->
+<!-- FEATURED PROJECTS SECTION -->
+<!-- ============================================== -->
 ### 🚀 Featured Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <!-- Project 1: MERN Cosmetic Shop Website -->
       <h3><a href="https://github.com/HMSSKHerath/mern-cosmetic-shop-website">mern-cosmetic-shop-website</a></h3>
       <p>Full e-commerce backend with JWT auth, role-based access control, bcrypt hashing, and product CRUD following MVC architecture.</p>
       <p><code>node.js</code> <code>express</code> <code>mongodb</code> <code>jwt</code></p>
     </td>
     <td width="50%" valign="top">
+      <!-- Project 2: Fullstack Boilerplates Hub -->
       <h3><a href="https://github.com/HMSSKHerath/fullstack-boilerplates-hub">fullstack-boilerplates-hub</a></h3>
       <p>Reusable, language-first API boilerplate collection with centralized error handling and a clean controller/router structure.</p>
-      <p><code>node.js</code> <code>rest api</code> <code>clean architecture</code></p>
+      <p>
+        <code>node.js</code> <code>rest api</code> <code>clean architecture</code></p>
     </td>
   </tr>
 </table>
-
----
 
 <!-- ============================================== -->
 <!-- FOOTER BANNER SECTION (Waving Footer) -->
