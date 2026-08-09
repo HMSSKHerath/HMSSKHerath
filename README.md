@@ -90,12 +90,23 @@
 ---
 
 <!-- ============================================== -->
+<!-- GITHUB STATS SECTION -->
+<!-- ============================================== -->
+### 📊 GitHub Stats
+
+<!-- GitHub streak stats card showcasing continuous contribution activity -->
+<p>
+  <img src="https://streak-stats.demolab.com/?user=HMSSKHerath&theme=dark&height=165" alt="GitHub Streak" />
+</p>
+
+---
+
+<!-- ============================================== -->
 <!-- PROFILES VIEWS SECTION -->
 <!-- ============================================== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HMSSKHerath&label=Profile%20Views&color=39d353&style=flat" alt="profile views" width="180"/>
 </p>
-
 
 <!-- ============================================== -->
 <!-- FOOTER BANNER SECTION (Waving Footer) -->
