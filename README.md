@@ -101,6 +101,27 @@
 
 ---
 
+### Connect
+
+<!-- ============================================== -->
+<!-- CONNECT SECTION -->
+<!-- ============================================== -->
+### 📬 Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sasidu-samith">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hmsskherath20020903@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://discord.com/users/1392566627085713490">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
+---
+
 <!-- ============================================== -->
 <!-- PROFILES VIEWS SECTION -->
 <!-- ============================================== -->
