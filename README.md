@@ -106,17 +106,9 @@
 <!-- ============================================== -->
 ### 📬 Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sasidu-samith">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:hmsskherath20020903@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://discord.com/users/1392566627085713490">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sasidu%20Samith-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sasidu-samith)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmsskherath20020903@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-Sasidu%20Samith-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1392566627085713490)
 
 ---
 
