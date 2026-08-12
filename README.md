@@ -90,6 +90,22 @@
 ---
 
 <!-- ============================================== -->
+<!-- CERTIFICATIONS & BADGES SECTION -->
+<!-- ============================================== -->
+### 🏅 Certifications & Badges
+
+Documented proof of completed learning tasks with PR/Issue evidence — view the full log in [dev-learning-badges](https://github.com/HMSSKHerath/dev-learning-badges).
+
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub_101-Completed-2ea44f?style=flat-square&logo=github&logoColor=white" alt="GitHub 101" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-Beginner-blue?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions Beginner" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-Intermediate-orange?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions Intermediate" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-Advanced-red?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions Advanced" />
+</p>
+
+---
+
+<!-- ============================================== -->
 <!-- GITHUB STATS SECTION -->
 <!-- ============================================== -->
 ### 📊 GitHub Stats
